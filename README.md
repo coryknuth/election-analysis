@@ -4,20 +4,20 @@
   
 ##Election Results
   The results of the election were as follows:
-    -There were a total of *369,711* votes cast
-    -Those votes broken down by county were:
+    *There were a total of *369,711* votes cast
+    *Those votes broken down by county were:
               Jefferson: 10.5% (38855 votes)
               Denver: 82.8% (306055 votes)
               Arapahoe: 6.7% (24801 votes)
-    -Denver County provided by far the most votes of any county.
-    -The voting totals broken down by candidate were:
+    *Denver County provided by far the most votes of any county.
+    *The voting totals broken down by candidate were:
               Charles Casper Stockham: 23.0% (85,213 votes)
               Diana DeGette: 73.8% (272,892 votes)
               Raymon Anthony Doane: 3.1% (11,606 votes)
-    -The winner of theis years election was:
+    *The winner of theis years election was:
               Diana DeGette with 73.8% (272,892) of the total votes.
 
-![Text Output]()
+![Text Output](https://github.com/coryknuth/election-analysis/blob/ee8893ae869de12e1945a73117077846bd5f1a74/Text%20Output.png)
               
 ##Future Elections
 
